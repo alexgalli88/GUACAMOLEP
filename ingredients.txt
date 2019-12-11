@@ -2,3 +2,4 @@
 1 onion
 sale
 tomato
+chili
